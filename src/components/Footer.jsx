@@ -58,17 +58,17 @@ const Footer = () => {
 
             <article>
                 <h4>Insights</h4>
-                <Link to="/s">Blog</Link>
-                <Link to="/s">Case Studies</Link>
-                <Link to="/s">Events</Link>
-                <Link to="/s">Communities</Link>
-                <Link to="/s">FAQs</Link>
+                <Link>Blog</Link>
+                <Link>Case Studies</Link>
+                <Link>Events</Link>
+                <Link>Communities</Link>
+                <Link>FAQs</Link>
             </article>
 
             <article>
                 <h4>Get In Touch</h4>
                 <Link to="/contact">Contact Us</Link>
-                <Link to="/s">Support</Link>
+                <Link>Support</Link>
             </article>
 
         </div>
